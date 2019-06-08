@@ -1,0 +1,10 @@
+C:\Users\SeanR\Source\Repos\PiCamUI2\PiCamUI2\bin\Debug\PiCamUI2.exe.config
+C:\Users\SeanR\Source\Repos\PiCamUI2\PiCamUI2\bin\Debug\PiCamUI2.exe
+C:\Users\SeanR\Source\Repos\PiCamUI2\PiCamUI2\bin\Debug\PiCamUI2.pdb
+C:\Users\SeanR\Source\Repos\PiCamUI2\PiCamUI2\obj\Debug\PiCamUI2.csprojAssemblyReference.cache
+C:\Users\SeanR\Source\Repos\PiCamUI2\PiCamUI2\obj\Debug\PiCamUI2.Form1.resources
+C:\Users\SeanR\Source\Repos\PiCamUI2\PiCamUI2\obj\Debug\PiCamUI2.Properties.Resources.resources
+C:\Users\SeanR\Source\Repos\PiCamUI2\PiCamUI2\obj\Debug\PiCamUI2.csproj.GenerateResource.cache
+C:\Users\SeanR\Source\Repos\PiCamUI2\PiCamUI2\obj\Debug\PiCamUI2.csproj.CoreCompileInputs.cache
+C:\Users\SeanR\Source\Repos\PiCamUI2\PiCamUI2\obj\Debug\PiCamUI2.exe
+C:\Users\SeanR\Source\Repos\PiCamUI2\PiCamUI2\obj\Debug\PiCamUI2.pdb
