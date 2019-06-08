@@ -1,4 +1,3 @@
-# RaspberrySpy
 Raspberry Pi Security Camera System
 Sean Rider
 Overview: 
