@@ -1,4 +1,4 @@
-open sftp://pi:Ran8Tod@192.168.0.41/ -hostkey="ssh-ed25519 256 35:97:97:ed:fc:69:ec:ff:8d:69:ef:5e:bf:16:80:36"
+open sftp://pi:PASSWORD@IPADDRESS/ -hostkey="ssh-ed25519 256 35:97:97:ed:fc:69:ec:ff:8d:69:ef:5e:bf:16:80:36"
 
 cd /mnt/EX2TB
 lcd T:\PiCamFootage
